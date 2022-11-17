@@ -13,35 +13,35 @@
     <h3>Hakkımda</h3>
     <p>Merhaba, ben Sinem Yağmur Karaağaç. 23 yaşındayım, Antalya'da yaşıyorum. Yeni mezun diyetisyenim iş arıyorum. Bu süreçte yazılım eğitimi alıyorum.</p>
     <h3>İlgi alanlarım</h3>
-    <header>
+     <header>
         <nav>
             <ol>
                 <li>FİLM</li>
                     <ul>
-                        <a href="https://www.imdb.com/title/tt0381681/">Before Sunset</a>
+                       <li><a href="https://www.imdb.com/title/tt0381681/">Before Sunset</a></li> 
                     </ul>
                     <ul>
-                    <a href="https://www.imdb.com/title/tt0367188/">Modigliani</a>
+                        <li><a href="https://www.imdb.com/title/tt0367188/">Modigliani</a></li> 
                     </ul>
                     <ul>
-                        <a href="https://www.imdb.com/title/tt1605783/">Midnight in Paris</a>
+                        <li><a href="https://www.imdb.com/title/tt1605783/">Midnight in Paris</a></li> 
                     </ul>   
                 <li>DİZİ</li>
                     <ul>
-                        <a href="https://www.imdb.com/title/tt1475582/">Sherlock Holmes</a>
+                        <li><a href="https://www.imdb.com/title/tt1475582/">Sherlock Holmes</a></li>  
                     </ul>
                     <ul>
-                        <a href="https://www.imdb.com/title/tt12872884/">Gönül Dağı</a>
+                        <li><a href="https://www.imdb.com/title/tt12872884/">Gönül Dağı</a></li>    
                     </ul>
                     <ul>
-                        <a href="https://www.imdb.com/title/tt10850932/">Crash Landing on You</a>
+                        <li><a href="https://www.imdb.com/title/tt10850932/">Crash Landing on You</a></li> 
                     </ul>
                 <li>KİTAP</li>
                     <ul>
-                        <a href="https://www.goodreads.com/book/show/6437832-kavim">Kavim-Ahmet Ümit</a>
+                        <li><a href="https://www.goodreads.com/book/show/6437832-kavim">Kavim-Ahmet Ümit</a></li>   
                     </ul>
                     <ul>
-                        <a href="https://www.goodreads.com/book/show/11085413-serenad">Seranad-Zülfü Livaneli</a>
+                        <li><a href="https://www.goodreads.com/book/show/11085413-serenad">Seranad-Zülfü Livaneli</a></li>   
                     </ul>
             </ol>
         </nav>
