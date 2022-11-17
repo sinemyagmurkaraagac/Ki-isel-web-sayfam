@@ -47,14 +47,11 @@
         </nav>
     </header>
      <!-- Navbar - End -->
-
-    <!-- Content - Start -->
-    <section>
-            <h2>Sevdiğim Dizi Hakkında</h2>
-            <h3>Sherlock Holmes</h3>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyixy5Vqa21mtuWXXKQR925YpKaopHT0dsw&usqp=CAU" alt="Sherlock Holmes">
-            <p>Dedektif Sherlock Holmes ve yiğit ortağı Watson, entrikaları tüm İngiltere'yi tehdit eden bir düşmanla bir akıl ve güç savaşına giriyor.</p>
-    </section>
-    <!-- Content - End -->
+     
+<h2>Sevdiğim Dizi Hakkında</h2>
+<h3>Sherlock Holmes</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyixy5Vqa21mtuWXXKQR925YpKaopHT0dsw&usqp=CAU" alt="Sherlock Holmes">
+<p>Dedektif Sherlock Holmes ve yiğit ortağı Watson, entrikaları tüm İngiltere'yi tehdit eden bir düşmanla bir akıl ve güç savaşına giriyor.</p>
     
     
+    [Patika.dev](https://www.patika.dev/tr)
